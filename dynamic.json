@@ -1,0 +1,42 @@
+{
+  "profile":{
+    "image":"images/ram.jpg",
+    "name":"Anand",
+     "design":"student",
+   "mobile":"7675869840",
+ "email":"anand88@gmail.com"
+},
+"carrer":{
+  "info":"to get good job"
+},
+"education":
+[
+  {
+  "qualification":"B.tech",
+  "institute":"MITS",
+  "percentage":"95%",
+  "yop":"2022"
+},
+{"qualification":"inter",
+"institute":"Srichaitanya",
+"percentage":"95%",
+"yop":"2018"
+},
+{
+"qualification":"SSC",
+"institute":"st.peters",
+"percentage":"95%",
+"yop":"2015"
+}
+],
+"skills":[
+  {
+  "name":"web technologies",
+  "info":["html","css","js"]
+},
+{
+  "name":"database",
+  "info":["jdbc","sql","firebase"]
+}
+]
+}
